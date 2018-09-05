@@ -2,11 +2,9 @@
 
 <img src="https://coverfiles.alphacoders.com/592/59226.jpg" />
 
-1.Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+1.StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 <br/>
-Project home page: https://github.com/StevenBlack/hosts
+2.yhosts:https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 <br/>
-Project releases: https://github.com/StevenBlack/hosts/releases
-<br/>
-2.Fetch the latest version of this file:https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+3.neoHosts:https://hosts.nfz.moe/full/hosts
 <br/>
