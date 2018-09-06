@@ -1,1 +1,195 @@
+# Last updated: 2018-07-20
+# Localhost (DO NOT REMOVE) Start
 
+127.0.0.1	localhost
+
+::1	localhost
+
+::1	ip6-localhost
+
+::1	ip6-loopback
+# Localhost (DO NOT REMOVE) End
+
+# Apkpure Start
+104.20.82.194	apkpure.com
+104.20.82.194	a.apkpure.com
+104.20.82.194	download.apkpure.com
+104.20.82.194	m.apkpure.com
+104.20.82.194	i.apkpure.com
+104.20.82.194	static.apkpure.com
+104.20.82.194	translate.apkpure.com
+# Apkpure End
+
+# Github Start
+52.74.223.119  gist.github.com
+52.74.223.119  github.com
+52.74.223.119  www.github.com
+# Github End
+
+# Guo Media Start
+104.17.117.165  www.guo.media
+104.17.117.165  content.guo.media 
+104.17.117.165  stage.guo.media
+157.240.10.37   www.instagram.com
+31.13.82.52     scontent-nrt1-1.cdninstagram.com
+157.240.10.18   developers.facebook.com
+107.22.184.99   www.facebookmarketingdevelopers.com
+# Guo Media End
+
+# 加密货币、比特币、交易所 Start
+
+# Binance Start
+13.33.187.30   www.binance.com
+54.230.173.60  resource.binance.com
+54.230.159.231 sensors.binance.com
+54.65.237.133  binance.com
+54.230.159.221 ex.bnbstatic.com
+13.112.130.80  stream.binance.com
+13.112.130.80  stream2.binance.com
+52.222.201.133 ftp.binance.com
+52.222.201.133 sftp.binance.com
+13.230.123.151 info.binance.com
+104.16.55.111  support.binance.com 
+52.198.84.85   labs.binance.com
+13.33.172.161  launchpad.binance.com
+13.32.143.52   de908tco66xxm.cloudfront.net
+# Binance End
+
+
+# Huobi Start
+104.16.234.188 otc.huobi.pro
+1.32.242.10 otc-api.huobipro.com
+104.16.234.188 otc-api.huobi.pro
+104.20.207.64 otc.huobipro.com
+104.16.234.188 www.huobi.pro
+104.16.234.188 api.huobi.pro
+104.16.234.188 uc.huobi.pro
+104.16.234.188 content.huobi.pro
+104.25.226.43 www.huobi.com
+104.20.207.64 www.huobipro.com
+104.20.207.64 api.huobipro.com
+# Huobi End
+
+# Kucoin Start
+13.115.189.55  www.kucoin.com
+13.113.98.243  kitchen.kucoin.com
+13.33.172.246  assets.kucoin.com
+54.208.38.43   support.kucoin.com
+54.208.38.43   kucoin.zendesk.com
+18.179.90.70   sentry.kucoin.com
+18.179.90.70   news.kucoin.com
+13.33.172.225  news-cdn.kucoin.com
+172.217.31.46  www.google-analytics.com
+13.115.189.55  web-768094052.ap-northeast-1.elb.amazonaws.com
+13.113.98.243  api-776425869.ap-northeast-1.elb.amazonaws.com
+18.179.90.70   web-proxy-7064507449c37071.elb.ap-northeast-1.amazonaws.com
+66.6.33.149    kucoinn.tumblr.com
+# Kucoin End
+
+# Bitfinex Start
+104.16.174.181 bitfinex.com
+104.16.174.181 www.bitfinex.com
+104.16.173.181 api.bitfinex.com
+160.153.18.112 blog.bitfinex.com
+104.16.53.111  support.bitfinex.com
+# Bitfinex End
+
+# Bitmex Start
+54.171.252.122   bitmex.com
+139.59.186.192   blog.bitmex.com
+54.154.157.126   www.bitmex.com
+104.17.137.178   testnet.bitmex.com
+178.62.14.205    sentry.bitmex.com
+178.62.14.205    testnet-static.bitmex.com
+13.33.172.222    static.bitmex.com
+13.33.172.214    static.bitmex.com
+# Bitmex End
+
+# Hitbtc Start
+104.28.13.130  hitbtc.com
+104.28.13.130  auth.hitbtc.com
+104.16.55.111  support.hitbtc.com
+46.101.21.147  mt.hitbtc.com
+104.28.13.130  blog.hitbtc.com
+# Hitbtc End
+
+# Okex Start
+47.90.110.144 okex.com
+192.0.78.13   blog.okex.com
+104.25.21.25  www.okex.com
+104.16.55.111 support.okex.com
+# Okex End
+
+# Gate Start
+52.199.92.111  gate.io
+13.230.249.212 web02.gate.io
+54.208.38.43   support.gate.io
+13.230.79.111  data.gate.io
+52.199.92.111  jp.gate.io
+# Gate End
+
+# Medium Start
+104.16.124.127 medium.com
+175.139.142.25 help.medium.com
+175.139.142.25 blog.medium.com
+175.139.142.25 miro.medium.com
+104.16.124.127 www.medium.com
+104.16.121.145 glyph.medium.com
+104.16.121.145 cdn-static-1.medium.com
+104.16.121.145 cdn-images-1.medium.com
+# Medium End
+
+
+# 加密货币、比特币、交易所 End
+
+# Alexa Start
+52.202.145.129  www.alexa.com
+13.33.172.244   try.alexa.com
+13.33.172.180   hub.alexa.com
+13.33.172.234   blog.alexa.com
+35.174.160.246  support.alexa.com
+# Alexa End
+
+# OneDrive Start
+
+137.117.17.70   preview.onedrive.com
+136.147.129.27  mail.onedrive.com
+13.76.215.210   admin.onedrive.com
+13.76.215.210   www.onedrive.com
+
+23.77.13.193    onedrive.com
+
+204.79.197.213	api.onedrive.com
+
+184.26.196.137	api.onedrive.live.com
+
+204.79.197.217	onedrive.live.com
+
+204.79.197.217	webedgegeo.skyprod.akadns.net
+
+40.90.136.182	skyapi.onedrive.live.com
+
+52.242.16.171	skyweb.skyprod.akadns.net
+
+23.199.144.225  cid-36f4d1230f8a673c.onedrive.live.com
+# OneDrive End
+
+
+
+
+# 其他hosts
+104.28.3.179   doub.io
+104.28.22.97   dnslookup.org
+34.204.110.50  www.whatsmydns.net
+104.27.147.183 www.pin-cong.com
+139.162.124.170 my.freess.org
+111.67.201.52  dream.ren
+149.154.167.120 web.telegram.org
+104.31.68.146  fangeqiang.com
+104.20.60.241  feedly.com
+104.20.60.241  cloud.feedly.com
+104.20.60.241  blog.feedly.com
+104.20.60.241  s5.feedly.com
+109.235.49.198 www.freenom.com
+104.27.166.1   www.423down.com
+104.18.58.16   wxkxsw.com
