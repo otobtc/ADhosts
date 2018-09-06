@@ -1,5 +1,5 @@
 <h1>Ad hosts</h1>
-
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=1&id=36686617&auto=1&height=32"></iframe>
 <img src="https://coverfiles.alphacoders.com/592/59226.jpg" />
 <h3>去广告和科学上网hosts源</h3>
 1.StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts  (国外维护者屏蔽国外网站广告)
