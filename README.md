@@ -1,4 +1,4 @@
-<h1># Ad hosts</h1>
+<h1>Ad hosts</h1>
 
 <img src="https://coverfiles.alphacoders.com/592/59226.jpg" />
 <h2>去广告和科学上网hosts源</h2>
