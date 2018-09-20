@@ -24,3 +24,7 @@
 <br/>
 4.http://simple-adblock.com/faq/testing-your-adblocker/
 <br/>
+
+
+<h3>非hosts原理屏蔽<h3> 例如：adguard
+1.http://git.oschina.net/halflife/list/raw/master/ad.txt   
