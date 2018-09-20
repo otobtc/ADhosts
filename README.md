@@ -26,5 +26,5 @@
 <br/>
 
 
-<h3>非hosts原理屏蔽<h3> 例如：adguard
-1.http://git.oschina.net/halflife/list/raw/master/ad.txt   
+<h3>非hosts原理屏蔽<h3> 
+1.http://git.oschina.net/halflife/list/raw/master/ad.txt     例如：adguard
