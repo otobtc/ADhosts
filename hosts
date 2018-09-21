@@ -82,6 +82,29 @@
 107.22.184.99   www.facebookmarketingdevelopers.com
 # Guo Media End
 
+# Gmail SMTP/POP/IMAP Start
+64.233.188.16	gmr-smtp-in.l.google.com
+64.233.188.16	gmail-smtp-in.l.google.com
+64.233.188.16	alt1.gmail-smtp-in.l.google.com
+64.233.188.16	alt2.gmail-smtp-in.l.google.com
+64.233.188.16	alt3.gmail-smtp-in.l.google.com
+64.233.188.16	alt4.gmail-smtp-in.l.google.com
+64.233.188.16	googlemail-imap.l.google.com
+64.233.188.16	googlemail-smtp.l.google.com
+64.233.188.16	googlemail-pop.l.google.com
+64.233.188.16	pop.googlemail.com
+64.233.188.16	imap.googlemail.com
+64.233.188.16	smtp.googlemail.com
+64.233.188.16	gmail-imap.l.google.com
+64.233.188.16	imap.gmail.com
+64.233.188.16	googlemail-pop.l.google.com
+64.233.188.16   pop.gmail.com
+64.233.188.16	pop.googlemail.com
+64.233.188.16	gmail-smtp.l.google.com
+64.233.188.16	smtp.gmail.com
+64.233.188.16	gmail-smtp-msa.l.google.com
+# Gmail SMTP/POP/IMAP End
+
 # 加密货币、比特币、交易所 Start
 
 # Binance Start
