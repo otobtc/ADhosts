@@ -33,7 +33,7 @@
 ### Adguard屏蔽规则
 1.HalfLife：http://git.oschina.net/halflife/list/raw/master/ad.txt 
 <br/>
-2.ADgk：https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
+2.ADgk：https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt  [说明](https://gitee.com/banbendalao/adguard)
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
