@@ -26,9 +26,9 @@
 <br/>
 
 ### 路由器常用屏蔽广告规则
-1.Koolproxy：https://kprules.b0.upaiyun.com/koolproxy.txt 
+1.[Koolproxy](https://koolproxy.io/)：https://kprules.b0.upaiyun.com/koolproxy.txt 
 <br/>
-2.Adbyby：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
+2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 <br/>
 ### 非hosts原理屏蔽
 1.http://git.oschina.net/halflife/list/raw/master/ad.txt      例如：adguard
