@@ -30,8 +30,10 @@
 <br/>
 2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 <br/>
-### 非hosts原理屏蔽
-1.http://git.oschina.net/halflife/list/raw/master/ad.txt      例如：adguard
+### Adguard屏蔽规则
+1.http://git.oschina.net/halflife/list/raw/master/ad.txt 
+<br/>
+2.ADgk：https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
