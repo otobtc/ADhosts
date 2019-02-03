@@ -34,5 +34,12 @@
 1.http://git.oschina.net/halflife/list/raw/master/ad.txt      例如：adguard
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
-1.https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt   乘风广告过滤规则
- 
+1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
+<br/>
+2.EasyPrivacy：https://easylist-downloads.adblockplus.org/easyprivacy.txt （防隐私跟踪列表）
+<br/>
+3.EasyList China：https://easylist-downloads.adblockplus.org/easylistchina.txt  (EasyList的中文补充规则)
+<br/>
+4.CJX's Annoyance List：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt （去自我推广列表）
+<br/>
+
