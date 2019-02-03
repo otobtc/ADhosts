@@ -33,6 +33,6 @@
 ### 非hosts原理屏蔽
 1.http://git.oschina.net/halflife/list/raw/master/ad.txt      例如：adguard
 <br/>
-### Adblock Plus
+### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt   乘风广告过滤规则
  
