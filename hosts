@@ -1,4 +1,4 @@
-# Last updated: 2018-09-26
+# Last updated: 2019-02-28
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -73,14 +73,28 @@
 # Github End
 
 # Guo Media Start
-104.17.117.165  www.guo.media
-104.17.117.165  content.guo.media 
-104.17.117.165  stage.guo.media
+104.16.231.102  guo.media
+104.16.231.102  www.guo.media
+104.16.231.102  content.guo.media 
+104.16.231.102  stage.guo.media
+23.229.205.233  rolsociety.org
+23.229.236.130  rolfoundation.org
 157.240.10.37   www.instagram.com
 31.13.82.52     scontent-nrt1-1.cdninstagram.com
 157.240.10.18   developers.facebook.com
 107.22.184.99   www.facebookmarketingdevelopers.com
 # Guo Media End
+
+# Hosts DNS Start
+104.25.99.21    ping.pe
+104.27.180.72   check-host.net
+104.28.23.97    dnslookup.org
+34.236.181.243  www.whatsmydns.net
+205.251.195.35  ns-803.awsdns-36.net
+205.251.192.101 ns-101.awsdns-12.com
+205.251.197.237 ns-1517.awsdns-61.org
+205.251.198.128 ns-1664.awsdns-16.co.uk
+# Hosts DNS End
 
 # Gmail SMTP/POP/IMAP Start
 64.233.188.16	gmr-smtp-in.l.google.com
@@ -217,7 +231,6 @@
 104.16.55.111   support.alexa.com
 # Alexa End
 
-
 # OneDrive Start
 137.117.17.70   preview.onedrive.com
 136.147.129.27  mail.onedrive.com
@@ -255,11 +268,7 @@
 # Telegram End
 
 # 其他hosts
-104.28.3.179    doub.io
-104.28.23.97    dnslookup.org
-34.236.181.243  www.whatsmydns.net
-104.27.147.183  www.pin-cong.com
-139.162.124.170 my.freess.org
+104.28.3.179    doub.io #致敬逗比永不删
 111.67.201.52   dream.ren
 104.31.68.146   fangeqiang.com
 104.20.60.241   feedly.com
@@ -268,11 +277,14 @@
 104.20.60.241   s5.feedly.com
 35.186.227.193  www.freenom.com  
 104.27.166.1    www.423down.com
-104.18.58.16    wxkxsw.com
 104.18.56.236   free-ss.site
 118.193.182.125 hrtsea.cc
 37.48.77.165    www.aptoide.com
 37.48.77.165    aptoide.com
 34.241.158.37   en.aptoide.com
+172.104.90.37   ss.freess.today
+104.31.89.170   free.cacss.me
+46.17.41.23     www.ssrtool.com
+
 
 
