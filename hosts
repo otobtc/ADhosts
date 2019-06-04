@@ -16,6 +16,12 @@
 104.20.82.194	translate.apkpure.com
 # Apkpure End
 
+# WikiLeaks Start
+95.211.113.131	wikileaks.org
+95.211.113.131	www.wikileaks.org
+141.105.65.113	file.wikileaks.org
+# WikiLeaks End
+
 # Wikinews Start
 198.35.26.96    www.wikinews.org
 198.35.26.96    ikinews.org
@@ -39,12 +45,12 @@
 # Wikipedia End
 
 # MEGA Start
-31.216.147.136 eu.api.mega.co.nz
-89.44.169.134 eu.static.mega.co.nz
-117.18.237.188 g.cdn1.mega.co.nz
-31.216.147.130 mega.co.nz
-31.216.148.10 mega.nz
-31.216.147.161 w.api.mega.co.nz
+31.216.147.136  eu.api.mega.co.nz
+89.44.169.134   eu.static.mega.co.nz
+117.18.237.188  g.cdn1.mega.co.nz
+31.216.147.130  mega.co.nz
+31.216.148.10   mega.nz
+31.216.147.161  w.api.mega.co.nz
 # MEGA End
 
 # Psiphon Start
@@ -119,37 +125,58 @@
 64.233.188.16	gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
 
+# SimilarWeb Start
+35.164.255.240  www.similarweb.com
+54.186.190.8    pro.similarweb.com
+54.186.190.8    account.similarweb.com
+104.16.55.111   support.similarweb.com
+162.241.218.124 cn.similarweb.com
+# SimilarWeb End
+
+
 # 加密货币、比特币、交易所 Start
 
 # Binance Start
-54.192.85.137  www.binance.com 
-54.230.173.60  resource.binance.com
-54.230.159.231 sensors.binance.com
-54.65.237.133  binance.com
-54.230.173.39  ex.bnbstatic.com
-13.112.130.80  stream.binance.com
-13.112.130.80  stream2.binance.com
-52.222.201.133 ftp.binance.com
-52.222.201.133 sftp.binance.com
-13.230.123.151 info.binance.com
-104.16.55.111  support.binance.com 
+13.35.16.216   www.binance.com 
+13.231.36.186  resource.binance.com
+52.84.251.109  sensors.binance.com
+13.231.36.186  binance.com
+52.84.251.111  ex.bnbstatic.com
+52.197.200.56  stream.binance.com
+52.192.110.78  stream2.binance.com
+13.35.16.216   api.binance.com
+52.84.251.109  ftp.binance.com
+13.231.36.186  sftp.binance.com
+52.84.251.59   info.binance.com
+52.84.226.179  beta.binance.com
+13.35.16.216   support.binance.com 
 52.198.84.85   labs.binance.com
-13.33.172.161  launchpad.binance.com
-13.32.143.52   de908tco66xxm.cloudfront.net
+52.84.251.74   launchpad.binance.com
+104.16.55.111  binance.zendesk.com
+13.35.16.216   de908tco66xxm.cloudfront.net
 # Binance End
 
+# OTC Start
+104.18.201.62  localbitcoins.com  
+104.18.201.62  chain.localbitcoins.com
+13.114.253.144 otcbtc.com
+13.114.253.144 assets3.otcbtc.com
+13.114.253.144 assets2.otcbtc.com
+13.114.253.144 assets1.otcbtc.com
+13.114.253.144 assets0.otcbtc.com
+52.196.202.252 bb.otcbtc.com
+34.194.221.118 career.otcbtc.com
+13.115.225.194 support.otcbtc.com
+# OTC End
+
 # Huobi Start
-104.16.234.188 otc.huobi.pro
-1.32.242.10 otc-api.huobipro.com
-104.16.234.188 otc-api.huobi.pro
-104.20.207.64 otc.huobipro.com
-104.16.234.188 www.huobi.pro
-104.16.234.188 api.huobi.pro
-104.16.234.188 uc.huobi.pro
-104.16.234.188 content.huobi.pro
-104.25.226.43 www.huobi.com
-104.20.207.64 www.huobipro.com
-104.20.207.64 api.huobipro.com
+18.179.190.111  hbg.com
+104.17.199.190  m.hbg.com
+104.17.199.190  www.hbg.com
+104.17.199.190  otc.hbg.com
+192.0.78.196    blog.hbg.com
+104.17.199.190  otc-api.hbg.com
+104.17.128.100  www.huobi.br.com
 # Huobi End
 
 # Kucoin Start
@@ -285,6 +312,9 @@
 172.104.90.37   ss.freess.today
 104.31.89.170   free.cacss.me
 46.17.41.23     www.ssrtool.com
+199.180.254.202 www.cpzhan.com
+104.27.135.39   wangzi.edu.pl
+
 
 
 
