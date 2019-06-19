@@ -8,7 +8,7 @@
 <br/>
 2.YousList:https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  （主要屏蔽韩国人使用的网站广告）
 <br/>
-3.neoHosts:https://hosts.nfz.moe/full/hosts  （国内）
+3.neoHosts:https://hosts.nfz.moe/full/hosts  （国内屏蔽挖矿统计JS&360&百度&法轮功等）
 <br/>
 4.大圣净化：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts  （主要针对国内视频网站）
 <br/>
