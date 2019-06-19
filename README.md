@@ -16,6 +16,8 @@
 <br/>
 6.1024_hosts：https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts  （1024网站和澳门皇家赌场）
 <br/>
+7.Hblock：https://hblock.molinero.xyz/hosts  （屏蔽广告跟踪和恶意软件）
+<br/>
 
 <h3>去广告效果检测网站</h3>
 1.https://thepcspy.com/blockadblock/
