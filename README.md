@@ -6,6 +6,8 @@
 <br/>
 2.yhosts:https://raw.githubusercontent.com/vokins/yhosts/master/hosts  （国内维护者屏蔽国内网站广告）
 <br/>
+2.YousList:https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  （主要屏蔽韩国人使用的网站广告）
+<br/>
 3.neoHosts:https://hosts.nfz.moe/full/hosts  （国内）
 <br/>
 4.大圣净化：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts  （主要针对国内视频网站）
