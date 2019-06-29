@@ -82,14 +82,13 @@
 # Guo Media Start
 104.16.231.102  guo.media
 104.16.231.102  www.guo.media
-104.16.231.102  content.guo.media 
+31.13.84.16     content.guo.media 
 104.16.231.102  stage.guo.media
 23.229.205.233  rolsociety.org
-23.229.236.130  rolfoundation.org
-157.240.10.37   www.instagram.com
+23.229.205.233  rolfoundation.org
+157.240.10.174  www.instagram.com
 31.13.82.52     scontent-nrt1-1.cdninstagram.com
 157.240.10.18   developers.facebook.com
-107.22.184.99   www.facebookmarketingdevelopers.com
 # Guo Media End
 
 # Hosts DNS Start
