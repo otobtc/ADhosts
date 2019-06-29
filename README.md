@@ -27,7 +27,7 @@
 2.ADgk：https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt  [说明](https://gitee.com/banbendalao/adguard)
 <br/>
 ### 路由器常用屏蔽广告规则
-1.[Koolproxy](https://github.com/koolproxy/merlin-koolproxy)：https://kprules.b0.upaiyun.com/koolproxy.txt 
+1.[Koolproxy](https://github.com/koolproxy/merlin-koolproxy)：https://kprules.b0.upaiyun.com/koolproxy.txt （停止维护）
 <br/>
 2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 <br/>
@@ -40,6 +40,7 @@
 <br/>
 4.CJX's Annoyance List：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt （去自我推广列表）
 <br/>
+
 
 
 <h3>去广告效果检测网站</h3>
