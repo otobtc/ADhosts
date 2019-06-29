@@ -21,15 +21,15 @@
 9.Google hosts：https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts  （提高网站访问速度）
 <br/>
 
+### 路由端屏蔽规则
+1.[Koolproxy](https://github.com/koolproxy/merlin-koolproxy)：https://kprules.b0.upaiyun.com/koolproxy.txt （停止维护）
+<br/>
+2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
+<br/>
 ### Adguard屏蔽规则
 1.HalfLife：http://git.oschina.net/halflife/list/raw/master/ad.txt 
 <br/>
 2.ADgk：https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt  [说明](https://gitee.com/banbendalao/adguard)
-<br/>
-### 路由器常用屏蔽广告规则
-1.[Koolproxy](https://github.com/koolproxy/merlin-koolproxy)：https://kprules.b0.upaiyun.com/koolproxy.txt （停止维护）
-<br/>
-2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
