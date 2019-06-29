@@ -61,21 +61,22 @@
 # Psiphon End
 
 # Github Start
-52.74.223.119    gist.github.com
-52.74.223.119    github.com
-52.74.223.119    www.github.com
-151.101.0.133    assets-cdn.github.com
-192.30.253.121   codeload.github.com
-151.101.192.133  collector-cdn.github.com
-52.4.174.133     collector.githubapp.com
-151.101.72.249   global-ssl.fastly.net
-192.30.253.120   nodeload.github.com
+13.229.188.59    github.com
+13.229.188.59    www.github.com
+13.229.188.59    gist.github.com
+185.199.111.154  help.github.com
+13.250.162.133   codeload.github.com
+185.199.111.153  desktop.github.com
+151.101.152.133  collector-cdn.github.com
+54.146.205.201   collector.githubapp.com
+151.101.8.249    global-ssl.fastly.net
+54.251.140.56    nodeload.github.com
 151.101.0.133    raw.github.com
 151.101.0.133    raw.githubusercontent.com
 151.101.0.133    documentcloud.github.com
 151.101.0.133    pages.github.com
-151.101.192.249  github.global.ssl.fastly.net
-151.101.192.133  google.github.io
+151.101.9.194    github.global.ssl.fastly.net
+185.199.111.153  google.github.io
 # Github End
 
 # Guo Media Start
