@@ -10,7 +10,7 @@
 <br/>
 4.neoHosts: https://hosts.nfz.moe/full/hosts  （国内屏蔽挖矿统计JS&360&百度&法轮功等）
 <br/>
-5.Hblock：https://hblock.molinero.xyz/hosts  （屏蔽广告跟踪和恶意软件多种源集合体）
+5.Hblock：https://hblock.molinero.xyz/hosts  （综合多种源集合体屏蔽广告跟踪和恶意软件）
 <br/>
 6.Mvps：http://winhelp2002.mvps.org/hosts.txt  （屏蔽美欧地区英文网站相关的广告）
 <br/>
