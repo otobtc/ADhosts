@@ -1,6 +1,5 @@
 <h1>Ad hosts</h1>
 
-![](https://raw.githubusercontent.com/otobtc/media/master/img/Girl.jpg)
 <h3>去广告和科学上网hosts源</h3>
 1.yhosts: https://raw.githubusercontent.com/vokins/yhosts/master/hosts  （国内维护者屏蔽国内网站广告）
 <br/>
