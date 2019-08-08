@@ -23,11 +23,11 @@
 # WikiLeaks End
 
 # Wikinews Start
-198.35.26.96   www.wikinews.org
-198.35.26.96   ikinews.org
-198.35.26.96   m.wikinews.org 
-198.35.26.96	 zh.wikinews.org
-198.35.26.96	 zh.m.wikinews.org
+198.35.26.96    www.wikinews.org
+198.35.26.96    ikinews.org
+198.35.26.96    m.wikinews.org 
+198.35.26.96	zh.wikinews.org
+198.35.26.96	zh.m.wikinews.org
 # Wikinews End
 
 # Wikipedia Start
@@ -54,8 +54,8 @@
 # MEGA End
 
 # Psiphon Start
-13.33.193.141	 psiphon3.com
-13.33.193.141  www.psiphon3.com
+13.224.96.64	 psiphon3.com
+13.224.96.64   www.psiphon3.com
 104.18.88.225	 psiphon.ca
 104.18.88.225	 www.psiphon.ca
 # Psiphon End
@@ -93,8 +93,11 @@
 
 # Hosts DNS Start
 104.25.99.21    ping.pe
+104.25.39.26    whoer.net
 104.27.180.72   check-host.net
 104.28.23.97    dnslookup.org
+104.24.4.119    dnschecker.org
+161.129.34.153  ipcheck.need.sh
 34.236.181.243  www.whatsmydns.net
 205.251.195.35  ns-803.awsdns-36.net
 205.251.192.101 ns-101.awsdns-12.com
@@ -118,12 +121,13 @@
 64.233.188.16	gmail-imap.l.google.com
 64.233.188.16	imap.gmail.com
 64.233.188.16	googlemail-pop.l.google.com
-64.233.188.16   pop.gmail.com
+64.233.188.16 pop.gmail.com
 64.233.188.16	pop.googlemail.com
 64.233.188.16	gmail-smtp.l.google.com
 64.233.188.16	smtp.gmail.com
 64.233.188.16	gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
+
 
 # SimilarWeb Start
 35.164.255.240  www.similarweb.com
@@ -134,29 +138,26 @@
 # SimilarWeb End
 
 
-
 # 加密货币、比特币、交易所 Start
 
 # Binance Start
-13.35.16.216   www.binance.com 
-13.231.36.186  resource.binance.com
-52.84.251.109  sensors.binance.com
-13.231.36.186  binance.com
-13.33.193.172  bin.bnbstatic.com
-13.33.193.250  ex.bnbstatic.com
-52.197.200.56  stream.binance.com
-52.192.110.78  stream2.binance.com
-13.35.16.216   api.binance.com
-52.84.251.109  ftp.binance.com
-13.231.36.186  sftp.binance.com
-52.84.251.59   info.binance.com
-52.84.226.179  beta.binance.com
-13.35.16.216   support.binance.com 
-52.198.84.85   labs.binance.com
-52.84.251.74   launchpad.binance.com
+52.84.226.179  www.binance.com 
+54.249.41.228  resource.binance.com
+54.249.41.228  binance.com
+13.224.96.105  bin.bnbstatic.com
+54.192.151.74  ex.bnbstatic.com
+54.249.194.47  stream.binance.com
+54.178.167.48  stream2.binance.com
+52.84.226.179  api.binance.com
+54.192.151.65  ftp.binance.com
+54.249.41.228  sftp.binance.com
+54.192.151.11  info.binance.com
+52.84.226.179  support.binance.com 
+54.192.151.89  labs.binance.com
+54.192.151.77  launchpad.binance.com
 104.16.55.111  binance.zendesk.com
-13.33.187.151  de908tco66xxm.cloudfront.net
-13.33.186.169  d1eipm3vz40hy0.cloudfront.net
+52.84.226.179  de908tco66xxm.cloudfront.net
+13.224.89.138  d1eipm3vz40hy0.cloudfront.net
 # Binance End
 
 # OTC Start
@@ -187,16 +188,17 @@
 # Huobi End
 
 # Kucoin Start
-104.16.90.29   www.kucoin.com
-13.33.193.230  assets-v2.kucoin.com
-104.16.90.29   kitchen-v2.kucoin.com
+54.248.70.217  www.kucoin.com
+54.192.151.25  assets-v2.kucoin.com
+54.248.70.217  kitchen-v2.kucoin.com
 52.198.198.53  pangu.kucoin.com
-13.33.193.121  fd.kucoin.com
+54.192.151.95  kcs.kucoin.com
+54.192.151.98  fd.kucoin.com
 54.248.70.217  support.kucoin.com
 104.16.55.111  kucoin.zendesk.com
 104.16.90.29   sentry.kucoin.com
 104.16.90.29   news.kucoin.com
-172.217.31.110 www.google-analytics.com
+172.217.27.238 www.google-analytics.com
 66.6.33.149    kucoinn.tumblr.com
 # Kucoin End
 
@@ -278,6 +280,11 @@
 23.199.144.225  cid-36f4d1230f8a673c.onedrive.live.com
 # OneDrive End
 
+# Investing Start
+193.37.235.5  www.investing.com
+13.224.253.68 cn.tradingview.com
+# Investing End
+
 # Telegram Start
 149.154.166.206	telegram.org
 149.154.166.206	desktop.telegram.org
@@ -300,8 +307,6 @@
 # Telegram End
 
 # 其他hosts
-104.28.3.179    doub.io #致敬逗比永不删
-111.67.201.52   dream.ren
 104.31.68.146   fangeqiang.com
 104.20.60.241   feedly.com
 104.20.60.241   cloud.feedly.com
@@ -310,7 +315,6 @@
 35.186.227.193  www.freenom.com  
 104.27.166.1    www.423down.com
 104.18.56.236   free-ss.site
-118.193.182.125 hrtsea.cc
 37.48.77.165    www.aptoide.com
 37.48.77.165    aptoide.com
 34.241.158.37   en.aptoide.com
@@ -320,6 +324,6 @@
 199.180.254.202 www.cpzhan.com
 104.27.135.39   wangzi.edu.pl
 104.24.117.207  xsyq.wangzicloud.com
-
+104.24.121.154  jiji.cx
 
 
