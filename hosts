@@ -1,4 +1,4 @@
-# Last updated: 2019-06-29
+# Last updated: 2019-08-09
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -115,7 +115,7 @@
 64.233.188.16	googlemail-imap.l.google.com
 64.233.188.16	googlemail-smtp.l.google.com
 64.233.188.16	googlemail-pop.l.google.com
-64.233.188.16	pop.googlemail.com
+64.233.188.16 pop.googlemail.com
 64.233.188.16	imap.googlemail.com
 64.233.188.16	smtp.googlemail.com
 64.233.188.16	gmail-imap.l.google.com
