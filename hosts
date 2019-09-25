@@ -1,4 +1,4 @@
-# Last updated: 2019-08-09
+# Last updated: 2019-09-26
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -28,6 +28,12 @@
 104.20.82.194	static.apkpure.com
 104.20.82.194	translate.apkpure.com
 # Apkpure End
+
+# Aptoide Start
+37.48.77.165    www.aptoide.com
+37.48.77.166    aptoide.com
+63.34.113.152   en.aptoide.com
+# Aptoide End
 
 # WikiLeaks Start
 95.211.113.131	wikileaks.org
@@ -67,10 +73,15 @@
 # MEGA End
 
 # Psiphon Start
-13.224.96.64	 psiphon3.com
-13.224.96.64   www.psiphon3.com
-104.18.88.225	 psiphon.ca
-104.18.88.225	 www.psiphon.ca
+
+13.224.96.64    psiphon3.com
+
+13.224.96.64    www.psiphon3.com
+
+104.18.88.225   psiphon.ca
+
+104.18.88.225   www.psiphon.ca
+
 # Psiphon End
 
 # Github Start
@@ -128,13 +139,13 @@
 64.233.188.16	googlemail-imap.l.google.com
 64.233.188.16	googlemail-smtp.l.google.com
 64.233.188.16	googlemail-pop.l.google.com
-64.233.188.16 pop.googlemail.com
+64.233.188.16	pop.googlemail.com
 64.233.188.16	imap.googlemail.com
 64.233.188.16	smtp.googlemail.com
 64.233.188.16	gmail-imap.l.google.com
 64.233.188.16	imap.gmail.com
 64.233.188.16	googlemail-pop.l.google.com
-64.233.188.16 pop.gmail.com
+64.233.188.16   pop.gmail.com
 64.233.188.16	pop.googlemail.com
 64.233.188.16	gmail-smtp.l.google.com
 64.233.188.16	smtp.gmail.com
@@ -143,9 +154,9 @@
 
 
 # SimilarWeb Start
-35.164.255.240  www.similarweb.com
-54.187.151.38   pro.similarweb.com
-54.187.151.38   account.similarweb.com
+35.164.255.240  similarweb.com
+52.41.138.82    pro.similarweb.com
+52.41.138.82    account.similarweb.com
 104.16.55.111   support.similarweb.com
 162.241.218.124 cn.similarweb.com
 # SimilarWeb End
@@ -257,86 +268,56 @@
 52.199.92.111  jp.gate.io
 # Gate End
 
-# Medium Start
-104.16.124.127 medium.com
-175.139.142.25 help.medium.com
-175.139.142.25 blog.medium.com
-175.139.142.25 miro.medium.com
-104.16.124.127 www.medium.com
-104.16.121.145 glyph.medium.com
-104.16.121.145 cdn-static-1.medium.com
-104.16.121.145 cdn-images-1.medium.com
-# Medium End
-
 # 加密货币、比特币、交易所 End
 
 # Alexa Start
-34.237.250.121  www.alexa.com 
-52.222.236.245  try.alexa.com
-52.222.236.222  hub.alexa.com
-52.222.236.82   blog.alexa.com
+54.174.118.240  www.alexa.com 
+99.86.181.123   try.alexa.com
+13.33.196.200   hub.alexa.com
+13.33.196.207   blog.alexa.com
 104.16.55.111   support.alexa.com
 # Alexa End
 
 # OneDrive Start
-137.117.17.70   preview.onedrive.com
 136.147.129.27  mail.onedrive.com
-13.76.215.210   admin.onedrive.com
-13.76.215.210   www.onedrive.com
-23.77.13.193    onedrive.com
-204.79.197.213	api.onedrive.com
-184.26.196.137	api.onedrive.live.com
-204.79.197.217	onedrive.live.com
-204.79.197.217	webedgegeo.skyprod.akadns.net
-40.90.136.182	  skyapi.onedrive.live.com
-52.242.16.171	  skyweb.skyprod.akadns.net
-23.199.144.225  cid-36f4d1230f8a673c.onedrive.live.com
+13.107.6.168    admin.onedrive.com
+52.163.59.97    www.onedrive.com
+23.199.137.186  onedrive.com
+13.107.42.12	api.onedrive.com
+23.199.137.186	api.onedrive.live.com
+13.107.42.13	onedrive.live.com
+40.90.136.182   skyapi.onedrive.live.com
+23.199.137.186  cid-36f4d1230f8a673c.onedrive.live.com
 # OneDrive End
 
+# Medium Start
+104.16.124.127  medium.com
+104.16.55.111   help.medium.com
+104.16.121.145  api.medium.com
+104.16.121.145  blog.medium.com
+104.16.121.145  miro.medium.com
+104.16.121.145  glyph.medium.com
+104.16.121.145  cdn-static-1.medium.com
+104.16.121.145  cdn-images-1.medium.com
+104.16.121.145  cdn-images-2.medium.com
+# Medium End
+
 # Investing Start
-193.37.235.5  www.investing.com
-13.224.253.68 cn.tradingview.com
+185.94.84.100  investing.com
+193.37.235.5   www.investing.com
+99.86.181.94   cn.tradingview.com
 # Investing End
 
-# Telegram Start
-149.154.166.206	telegram.org
-149.154.166.206	desktop.telegram.org
-149.154.166.206	core.telegram.org
-149.154.166.206	oauth.telegram.org
-149.154.167.220	api.telegram.org
-149.154.175.16	pluto.web.telegram.org
-149.154.175.16	pluto-1.web.telegram.org
-149.154.167.25	venus.web.telegram.org
-149.154.167.25	venus-1.web.telegram.org
-149.154.175.115	aurora.web.telegram.org
-149.154.175.115	aurora-1.web.telegram.org
-149.154.167.124	vesta.web.telegram.org
-149.154.167.124	vesta-1.web.telegram.org
-149.154.164.225	flora.web.telegram.org
-149.154.164.225	flora-1.web.telegram.org
-149.154.167.118	telegram.me
-149.154.167.118	t.me
-149.154.167.80	updates.tdesktop.com
-# Telegram End
-
 # 其他hosts
-104.31.68.146   fangeqiang.com
-104.20.60.241   feedly.com
-104.20.60.241   cloud.feedly.com
-104.20.60.241   blog.feedly.com
-104.20.60.241   s5.feedly.com
+104.31.89.95    fangeqiang.com
 35.186.227.193  www.freenom.com  
 104.27.166.1    www.423down.com
 104.18.56.236   free-ss.site
-37.48.77.165    www.aptoide.com
-37.48.77.165    aptoide.com
-34.241.158.37   en.aptoide.com
-172.104.90.37   ss.freess.today
-104.31.89.170   free.cacss.me
-46.17.41.23     www.ssrtool.com
+172.104.90.37   ss.freeshadowsocks.org
+198.54.117.200  free.cacss.me
+149.129.113.181 www.ssrtool.com
 199.180.254.202 www.cpzhan.com
 104.27.135.39   wangzi.edu.pl
 104.24.117.207  xsyq.wangzicloud.com
-104.24.121.154  jiji.cx
-
-
+104.31.83.99    jiji.ee
+104.24.106.228  yahahanpo.com
