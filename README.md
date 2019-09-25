@@ -40,7 +40,10 @@
 <br/>
 4.CJX's Annoyance List：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt （去自我推广列表）
 <br/>
-
+5.广告净化器规则：http://tools.yiclear.com/ChinaList2.0.txt   （国内大部分视频网站的广告过滤）
+<br/>
+6.I don't care about cookies：https://www.i-dont-care-about-cookies.eu/abp/  （我不关心 Cookie 的问题，屏蔽网站的 cookies 相关的警告）
+<br/>
 
 
 <h3>去广告效果检测网站</h3>
