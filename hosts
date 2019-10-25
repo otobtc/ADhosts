@@ -11,6 +11,7 @@
 185.199.111.153  police-github.github.io
 185.199.111.153  github.io
 151.101.194.167  m.twitch.tv
+104.19.115.115   lihkg.com
 104.20.73.239    thestandnews.com
 104.20.73.239    cdn.thestandnews.com
 103.15.199.182   mystand.thestandnews.com
@@ -257,9 +258,9 @@
 
 # Alexa Start
 54.174.118.240  www.alexa.com 
-99.86.181.123   try.alexa.com
-13.33.196.200   hub.alexa.com
-13.33.196.207   blog.alexa.com
+13.224.253.123  try.alexa.com
+54.192.151.120  hub.alexa.com
+54.192.151.102  blog.alexa.com
 104.16.55.111   support.alexa.com
 # Alexa End
 
