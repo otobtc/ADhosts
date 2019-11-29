@@ -74,21 +74,22 @@
 # MEGA End
 
 # Github Start
-13.229.188.59    github.com
-13.229.188.59    www.github.com
-13.229.188.59    gist.github.com
+13.250.177.223   github.com
+192.30.253.116   api.github.com
+192.30.253.118   gist.github.com
+13.250.162.133   codeload.github.com
 185.199.111.154  help.github.com
-54.251.140.56    codeload.github.com
 185.199.111.153  desktop.github.com
 151.101.120.133  collector-cdn.github.com
-34.194.228.114   collector.githubapp.com
+52.70.200.106    collector.githubapp.com
 151.101.8.249    global-ssl.fastly.net
-13.229.189.0     nodeload.github.com
+54.251.140.56    nodeload.github.com
 151.101.8.133    raw.github.com
 151.101.8.133    raw.githubusercontent.com
+151.101.77.194   github.global.ssl.fastly.net
+151.101.8.133    avatars2.githubusercontent.com
 185.199.111.153  documentcloud.github.com
 185.199.111.153  pages.github.com
-151.101.9.194    github.global.ssl.fastly.net
 185.199.111.153  google.github.io
 # Github End
 
