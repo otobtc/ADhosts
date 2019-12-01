@@ -1,4 +1,4 @@
-# Last updated: 2019-10-25
+# Last updated: 2019-12-1
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -6,7 +6,7 @@
 ::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
 
-# 香港加油
+# Stand with HK
 185.199.111.153  ncehk2019.github.io
 185.199.111.153  police-github.github.io
 185.199.111.153  github.io
@@ -18,7 +18,7 @@
 104.20.73.239    64.thestandnews.com
 104.20.73.239    dce2015.thestandnews.com
 104.28.31.251    theinitium.com
-# 香港加油
+# Stand with HK
 
 # Apkpure Start
 104.20.82.194	apkpure.com
@@ -277,6 +277,11 @@
 23.199.137.186  cid-36f4d1230f8a673c.onedrive.live.com
 # OneDrive End
 
+# Name Start
+35.186.227.193  freenom.com
+52.212.70.141   my.freenom.com
+# Name End
+
 # Medium Start
 104.16.124.127  medium.com
 104.16.55.111   help.medium.com
@@ -296,8 +301,7 @@
 # Investing End
 
 # Others Start
-104.31.89.95    fangeqiang.com
-35.186.227.193  www.freenom.com  
+104.31.89.95    fangeqiang.com  
 104.27.166.1    www.423down.com
 104.18.56.236   free-ss.site
 172.104.90.37   ss.freeshadowsocks.org
