@@ -22,7 +22,7 @@
 <br/>
 
 ### 路由端屏蔽规则
-1.[Koolproxy](https://github.com/koolproxy/merlin-koolproxy)：https://kprules.b0.upaiyun.com/koolproxy.txt （停止维护）
+1.[Koolproxy](https://houzi-.coding.net/p/my_dream/d/my_dream/git)：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/koolproxy.txt （停止维护）
 <br/>
 2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 <br/>
