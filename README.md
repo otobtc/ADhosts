@@ -22,8 +22,7 @@
 <br/>
 
 ### 路由端屏蔽规则
-1.[Koolproxy](https://houzi-.coding.net/p/my_dream/d/my_dream/git)：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/koolproxy.txt  
-<br/>
+1.[Koolproxy](https://houzi-.coding.net/p/my_dream/d/my_dream/git)：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/koolproxy.txt   <br/>
 2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 <br/>
 [video]：https://opt.cn2qq.com/opt-file/video.txt [lazy]：https://opt.cn2qq.com/opt-file/lazy.txt  <br/>
