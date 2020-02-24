@@ -26,6 +26,8 @@
 <br/>
 2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
 <br/>
+          https://opt.cn2qq.com/opt-file/lazy.txt   <br/>
+ [video]：https://opt.cn2qq.com/opt-file/video.txt   <br/>
 ### Adguard屏蔽规则
 1.HalfLife：http://git.oschina.net/halflife/list/raw/master/ad.txt 
 <br/>
