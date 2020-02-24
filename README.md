@@ -33,9 +33,9 @@
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
-<br/>
+<br/><del>
 2.广告净化器规则：http://tools.yiclear.com/ChinaList2.0.txt  （国内大部分视频网站的广告过滤）
-<br/>
+<br/></del>
 3.EasyList：https://easylist-downloads.adblockplus.org/easylist.txt  (主要规则)
 <br/>
 4.EasyPrivacy：https://easylist-downloads.adblockplus.org/easyprivacy.txt （防隐私跟踪列表）
