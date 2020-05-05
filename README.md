@@ -49,13 +49,11 @@
 
 
 <h3>去广告效果检测网站</h3>
-1.https://thepcspy.com/blockadblock/
+1.https://checkadblock.ru/
 <br/>
-2.https://checkadblock.ru/
+2.https://blockads.fivefilters.org/
 <br/>
-3.https://blockads.fivefilters.org/
-<br/>
-4.http://simple-adblock.com/faq/testing-your-adblocker/
+3.https://canyoublockit.com/extreme-test/
 <br/>
 
 
