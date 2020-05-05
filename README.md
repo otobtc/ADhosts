@@ -22,10 +22,15 @@
 <br/>
 
 ### 路由端屏蔽规则
-1.[Koolproxy](https://houzi-.coding.net/p/my_dream/d/my_dream/git)：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/koolproxy.txt   <br/>
-2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt
-<br/>
-[video]：https://opt.cn2qq.com/opt-file/video.txt [lazy]：https://opt.cn2qq.com/opt-file/lazy.txt  <br/>
+1.[Koolproxy](https://houzi-.coding.net/p/my_dream/d/my_dream/git)：https://houzi-.coding.net/p/my_dream/d/my_dream/git  <br/>
+视频规则：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/kp.dat  <br/>
+每日规则：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/daily.txt  <br/>
+静态规则：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/koolproxy.txt  <br/>
+自定义规则说明：https://houzi-.coding.net/p/my_dream/d/my_dream/git/raw/master/user.txt   <br/>
+2.[Adbyby](https://github.com/adbyby/xwhyc-rules)：
+https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
+[video]：https://opt.cn2qq.com/opt-file/video.txt  <br/>
+[lazy]：https://opt.cn2qq.com/opt-file/lazy.txt  <br/>
 ### Adguard屏蔽规则
 1.HalfLife：http://git.oschina.net/halflife/list/raw/master/ad.txt 
 <br/>
