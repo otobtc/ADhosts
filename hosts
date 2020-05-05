@@ -1,4 +1,4 @@
-# Last updated: 2020-02-27
+# Last updated: 2020-05-05
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -7,15 +7,11 @@
 # Localhost (DO NOT REMOVE) End
 
 # Stand with HK
-185.199.111.153  ncehk2019.github.io
-185.199.111.153  police-github.github.io
-185.199.111.153  github.io
-151.101.194.167  m.twitch.tv
-104.19.115.115   lihkg.com
+104.19.141.58    lihkg.com
 104.20.73.239    thestandnews.com
-104.20.73.239    cdn.thestandnews.com
-103.15.199.182   mystand.thestandnews.com
 104.20.73.239    64.thestandnews.com
+104.20.73.239    cdn.thestandnews.com
+104.20.73.239    mystand.thestandnews.com
 104.20.73.239    dce2015.thestandnews.com
 104.28.31.251    theinitium.com
 # Stand with HK
@@ -65,44 +61,49 @@
 # Wikipedia End
 
 # MEGA Start
-31.216.147.136  eu.api.mega.co.nz
-89.44.169.134   eu.static.mega.co.nz
-117.18.237.188  g.cdn1.mega.co.nz
-31.216.147.130  mega.co.nz
 31.216.148.10   mega.nz
+31.216.147.130  mega.co.nz
+117.18.237.188  g.cdn1.mega.co.nz
 31.216.147.161  w.api.mega.co.nz
+31.216.147.136  eu.api.mega.co.nz
+31.216.148.13   eu.static.mega.co.nz
 # MEGA End
 
 # Github Start
-13.250.177.223   github.com
-192.30.253.116   api.github.com
-192.30.253.118   gist.github.com
-13.250.162.133   codeload.github.com
-185.199.111.154  help.github.com
-185.199.111.153  desktop.github.com
-151.101.120.133  collector-cdn.github.com
-52.70.200.106    collector.githubapp.com
+13.229.188.59    github.com
+13.250.94.254    api.github.com
+13.229.188.59    gist.github.com
+54.251.140.56    codeload.github.com
+151.101.8.133    collector-cdn.github.com
+34.199.206.34    collector.githubapp.com
 151.101.8.249    global-ssl.fastly.net
 54.251.140.56    nodeload.github.com
+54.86.134.160    documentcloud.org
 151.101.8.133    raw.github.com
 151.101.8.133    raw.githubusercontent.com
-151.101.77.194   github.global.ssl.fastly.net
+151.101.9.194    github.global.ssl.fastly.net
 151.101.8.133    avatars0.githubusercontent.com
 151.101.8.133    avatars1.githubusercontent.com
 151.101.8.133    avatars2.githubusercontent.com
 151.101.8.133    avatars3.githubusercontent.com
 185.199.111.153  documentcloud.github.com
+185.199.111.153  desktop.github.com
 185.199.111.153  pages.github.com
+185.199.111.154  help.github.com
 185.199.111.153  google.github.io
+185.199.111.153  github.io
 # Github End
 
 # Guo Media Start
-104.16.231.102  guo.media
-104.16.231.102  content.guo.media 
-104.16.231.102  stage.guo.media
+75.126.135.131  guo.media
+75.126.115.192  gtv.org
+75.126.164.178  gnews.org
+75.126.164.178  content.guo.media
+75.126.150.210  post.guo.media 
+173.252.103.64  stage.guo.media
 23.229.205.233  rolsociety.org
 23.229.205.233  rolfoundation.org
-52.84.225.221   d57iplyuvntm7.cloudfront.net
+99.86.183.125   d57iplyuvntm7.cloudfront.net
 # Guo Media End
 
 # Hosts DNS Start
@@ -141,16 +142,6 @@
 64.233.188.16	smtp.gmail.com
 64.233.188.16	gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
-
-
-# SimilarWeb Start
-35.164.255.240  similarweb.com
-52.41.138.82    pro.similarweb.com
-52.41.138.82    account.similarweb.com
-104.16.55.111   support.similarweb.com
-162.241.218.124 cn.similarweb.com
-# SimilarWeb End
-
 
 # 加密货币、比特币、交易所 Start
 
@@ -260,6 +251,14 @@
 
 # 加密货币、比特币、交易所 End
 
+# SimilarWeb Start
+13.226.155.126  similarweb.com
+52.41.138.82    pro.similarweb.com
+52.41.138.82    account.similarweb.com
+104.16.55.111   support.similarweb.com
+162.241.218.124 cn.similarweb.com
+# SimilarWeb End
+
 # Alexa Start
 54.174.118.240  www.alexa.com 
 13.224.253.123  try.alexa.com
@@ -272,12 +271,12 @@
 136.147.129.27  mail.onedrive.com
 13.107.6.168    admin.onedrive.com
 52.163.59.97    www.onedrive.com
-23.199.137.186  onedrive.com
-13.107.42.12	api.onedrive.com
-23.199.137.186	api.onedrive.live.com
-13.107.42.13	onedrive.live.com
-40.90.136.182   skyapi.onedrive.live.com
-23.199.137.186  cid-36f4d1230f8a673c.onedrive.live.com
+104.215.28.40   onedrive.com
+13.107.42.12	  api.onedrive.com
+104.79.113.7	  api.onedrive.live.com
+13.107.42.13	  onedrive.live.com
+40.90.142.224   skyapi.onedrive.live.com
+173.222.154.15  cid-36f4d1230f8a673c.onedrive.live.com
 # OneDrive End
 
 # Name Start
@@ -286,7 +285,7 @@
 # Name End
 
 # Medium Start
-104.16.124.127  medium.com
+104.16.122.127  medium.com
 104.16.55.111   help.medium.com
 104.16.121.145  api.medium.com
 104.16.121.145  blog.medium.com
@@ -299,8 +298,8 @@
 
 # Investing Start
 185.94.84.100  investing.com
-193.37.235.5   www.investing.com
-54.192.151.83  cn.tradingview.com
+185.94.84.100  www.investing.com
+13.32.169.126  cn.tradingview.com
 # Investing End
 
 # Others Start
@@ -309,9 +308,10 @@
 104.18.56.236   free-ss.site
 172.104.90.37   my.freeshadowsocks.org
 104.24.102.156  cacss.ga
-104.28.11.73    ssrtool.us
 199.180.254.202 www.cpzhan.com
 104.28.26.99    wangzi.uk
 104.28.6.12     ji-bc.pw
-104.24.106.228  yahahanpo.com
+104.24.119.40   cutecloud.info
+104.27.179.22   ggboom.site
+193.110.201.178 xiaoxiaobujidao.info
 # Others End
