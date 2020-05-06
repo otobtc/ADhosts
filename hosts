@@ -27,38 +27,17 @@
 # Apkpure End
 
 # Aptoide Start
-37.48.77.165    www.aptoide.com
-37.48.77.166    aptoide.com
-63.34.113.152   en.aptoide.com
+99.81.229.251   www.aptoide.com
+99.81.229.251   aptoide.com
+52.210.196.61   en.aptoide.com
 # Aptoide End
 
-# WikiLeaks Start
-95.211.113.131	wikileaks.org
-95.211.113.131	www.wikileaks.org
-141.105.65.113	file.wikileaks.org
-# WikiLeaks End
-
 # Wikinews Start
-198.35.26.96    www.wikinews.org
-198.35.26.96    ikinews.org
-198.35.26.96    m.wikinews.org 
-198.35.26.96    zh.wikinews.org
-198.35.26.96    zh.m.wikinews.org
+103.102.166.224    www.wikinews.org
+103.102.166.224    m.wikinews.org 
+103.102.166.224    zh.wikinews.org
+103.102.166.224    zh.m.wikinews.org
 # Wikinews End
-
-# Wikipedia Start
-198.35.26.96	www.wikipedia.org
-198.35.26.96	login.wikimedia.org
-198.35.26.96	wuu.wikipedia.org
-198.35.26.96	zh-yue.wikipedia.org
-198.35.26.96	zh.wikipedia.org
-198.35.26.96	zh.m.wikipedia.org
-198.35.26.96	ja.wikipedia.org
-198.35.26.96	ja.m.wikipedia.org
-198.35.26.96	ug.wikipedia.org
-198.35.26.96	ug.m.wikipedia.org
-198.35.26.112	upload.wikimedia.org
-# Wikipedia End
 
 # MEGA Start
 31.216.148.10   mega.nz
@@ -95,24 +74,25 @@
 # Github End
 
 # Guo Media Start
-75.126.135.131  guo.media
-75.126.115.192  gtv.org
-75.126.164.178  gnews.org
-75.126.164.178  content.guo.media
-75.126.150.210  post.guo.media 
-173.252.103.64  stage.guo.media
+104.16.231.102  guo.media
+104.16.231.102  post.guo.media
+104.16.231.102  stage.guo.media
+104.16.231.102  content.guo.media
+104.18.27.103   gtv.org
+104.16.124.35   gnews.org 
 23.229.205.233  rolsociety.org
 23.229.205.233  rolfoundation.org
 99.86.183.125   d57iplyuvntm7.cloudfront.net
 # Guo Media End
 
 # Hosts DNS Start
-104.25.99.21    ping.pe
-104.25.39.26    whoer.net
-104.27.180.72   check-host.net
+104.26.9.179    ping.pe
+116.140.35.63   ipip.net
+95.85.16.212    ipleak.net
+104.22.3.187    whoer.net
+104.26.1.67     check-host.net
 104.28.23.97    dnslookup.org
-104.24.4.119    dnschecker.org
-161.129.34.153  ipcheck.need.sh
+104.26.7.89     dnschecker.org
 104.26.7.229    www.whatsmydns.net
 205.251.195.35  ns-803.awsdns-36.net
 205.251.192.101 ns-101.awsdns-12.com
