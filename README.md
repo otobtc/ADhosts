@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 [video]：https://opt.cn2qq.com/opt-file/video.txt  <br/>
 [lazy]：https://opt.cn2qq.com/opt-file/lazy.txt  <br/>
 ### Adguard屏蔽规则
-1.[乘风]()：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+1.[乘风](https://adf.minggo.eu.org)：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 <br/>
 2.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.win/easylist.txt
 <br/>
