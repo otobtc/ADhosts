@@ -32,15 +32,15 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 [video]：https://opt.cn2qq.com/opt-file/video.txt  <br/>
 [lazy]：https://opt.cn2qq.com/opt-file/lazy.txt  <br/>
 ### Adguard屏蔽规则
-1.HalfLife：http://git.oschina.net/halflife/list/raw/master/ad.txt 
+1.[乘风]()：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 <br/>
-2.[ADgk](https://github.com/banbendalao/ADgk)：https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+2.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.win/easylist.txt
 <br/>
-3.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.win/easylist.txt
+3.[halflife](https://adf.minggo.eu.org)：http://git.oschina.net/halflife/list/raw/master/ad.txt 
 <br/>
 4.[EasyList](https://easylist.to/)：https://easylist-downloads.adblockplus.org/easyprivacy.txt
 <br/>
-5.[乘风]()：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+5.[ADgk](https://github.com/banbendalao/ADgk)：https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
