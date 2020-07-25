@@ -34,7 +34,13 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 ### Adguard屏蔽规则
 1.HalfLife：http://git.oschina.net/halflife/list/raw/master/ad.txt 
 <br/>
-2.ADgk：https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt  [说明](https://gitee.com/banbendalao/adguard)
+2.[ADgk](https://github.com/banbendalao/ADgk)：https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+<br/>
+3.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.win/easylist.txt
+<br/>
+4.[EasyList](https://easylist.to/)：https://easylist-downloads.adblockplus.org/easyprivacy.txt
+<br/>
+5.[乘风]()：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
