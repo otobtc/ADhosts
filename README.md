@@ -35,8 +35,8 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 1.[乘风](https://adf.minggo.eu.org)：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 <br/>
 2.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.net/easylist.txt
-<br/>
-3.[halflife](https://adf.minggo.eu.org)：http://git.oschina.net/halflife/list/raw/master/ad.txt
+<br/><del>
+3.[halflife](https://adf.minggo.eu.org)：http://git.oschina.net/halflife/list/raw/master/ad.txt</del>
 <br/>
 4.[EasyList](https://easylist.to/)：https://easylist-downloads.adblockplus.org/easyprivacy.txt
 <br/>
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
-<br/><del>
+<br/>
 2.EasyList：https://easylist-downloads.adblockplus.org/easylist.txt  (主要规则)
 <br/>
 3.EasyPrivacy：https://easylist-downloads.adblockplus.org/easyprivacy.txt （防隐私跟踪列表）
