@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/otobtc/media/master/img/Girl.jpg)
 <h3>去广告和科学上网hosts源</h3>
-1.[yhosts](https://github.com/VeleSila/yhosts): https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts  （国内维护者屏蔽国内网站广告）
+1.yhosts: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts  （国内维护者屏蔽国内网站广告）
 <br/>
 2.大圣净化：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts  （主要针对国内视频网站）
 <br/>
