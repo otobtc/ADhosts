@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 <br/>
 2.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.net/easylist.txt
 <br/>
-3.[halflife](https://adf.minggo.eu.org)：http://git.oschina.net/halflife/list/raw/master/ad.txt 
+3.[halflife](https://adf.minggo.eu.org)：http://git.oschina.net/halflife/list/raw/master/ad.txt
 <br/>
 4.[EasyList](https://easylist.to/)：https://easylist-downloads.adblockplus.org/easyprivacy.txt
 <br/>
@@ -45,17 +45,15 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
 1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
 <br/><del>
-2.广告净化器规则：http://tools.yiclear.com/ChinaList2.0.txt  （国内大部分视频网站的广告过滤）
-<br/></del>
-3.EasyList：https://easylist-downloads.adblockplus.org/easylist.txt  (主要规则)
+2.EasyList：https://easylist-downloads.adblockplus.org/easylist.txt  (主要规则)
 <br/>
-4.EasyPrivacy：https://easylist-downloads.adblockplus.org/easyprivacy.txt （防隐私跟踪列表）
+3.EasyPrivacy：https://easylist-downloads.adblockplus.org/easyprivacy.txt （防隐私跟踪列表）
 <br/>
-5.EasyList China：https://easylist-downloads.adblockplus.org/easylistchina.txt  (EasyList的中文补充规则)
+4.EasyList China：https://easylist-downloads.adblockplus.org/easylistchina.txt  (EasyList的中文补充规则)
 <br/>
-6.CJX's Annoyance List：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt （去自我推广列表）
+5.CJX's Annoyance List：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt （去自我推广列表）
 <br/>
-7.I don't care about cookies：https://www.i-dont-care-about-cookies.eu/abp/  （屏蔽网站的 cookies 相关的警告）
+6.I don't care about cookies：https://www.i-dont-care-about-cookies.eu/abp/  （屏蔽网站的 cookies 相关的警告）
 <br/>
 
 
