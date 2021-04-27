@@ -12,7 +12,7 @@
 <br/>
 5.Hblock：https://hblock.molinero.xyz/hosts  （综合多种源集合体屏蔽广告跟踪和恶意软件）
 <br/>
-6.Mvps：http://winhelp2002.mvps.org/hosts.txt  （屏蔽美欧地区英文网站相关的广告）
+6.Mvps：https://winhelp2002.mvps.org/hosts.txt  （屏蔽美欧地区英文网站相关的广告）
 <br/>
 7.YousList: https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  （主要屏蔽韩国人使用的网站广告）
 <br/>
