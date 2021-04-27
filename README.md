@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 ### Adguard屏蔽规则
 1.[乘风](https://adf.minggo.eu.org)：https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 <br/>
-2.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.win/easylist.txt
+2.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.net/easylist.txt
 <br/>
 3.[halflife](https://adf.minggo.eu.org)：http://git.oschina.net/halflife/list/raw/master/ad.txt 
 <br/>
