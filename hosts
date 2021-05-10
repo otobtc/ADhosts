@@ -1,4 +1,4 @@
-# Last updated: 2020-05-05
+# Last updated: 2021-05-10
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -6,47 +6,60 @@
 ::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
 
-# Stand with HK
-104.19.141.58    lihkg.com
-104.20.73.239    thestandnews.com
-104.20.73.239    64.thestandnews.com
-104.20.73.239    cdn.thestandnews.com
-104.20.73.239    mystand.thestandnews.com
-104.20.73.239    dce2015.thestandnews.com
-104.28.31.251    theinitium.com
-# Stand with HK
+# HK Start
+104.17.213.193   lihkg.com
+157.240.9.18     mingpao.com
+104.21.14.63     theinitium.com
+104.20.72.239    thestandnews.com
+104.20.72.239    cdn.thestandnews.com
+# HK End
 
 # Apkpure Start
-104.20.82.194	apkpure.com
-104.20.82.194	a.apkpure.com
-104.20.82.194	download.apkpure.com
-104.20.82.194	m.apkpure.com
-104.20.82.194	i.apkpure.com
-104.20.82.194	static.apkpure.com
-104.20.82.194	translate.apkpure.com
+104.20.83.194	apkpure.com
+104.20.83.194	m.apkpure.com
+104.20.83.194	download.apkpure.com
+104.20.83.194	translate.apkpure.com
 # Apkpure End
 
 # Aptoide Start
-99.81.229.251   www.aptoide.com
-99.81.229.251   aptoide.com
-52.210.196.61   en.aptoide.com
+18.203.16.18   aptoide.com
+34.240.108.2   en.aptoide.com
 # Aptoide End
 
+# Apkmirror Start
+104.19.136.58	apkmirror.com
+# Apkmirror End
+
 # Wikinews Start
-103.102.166.224    www.wikinews.org
+103.102.166.224    wikinews.org
 103.102.166.224    m.wikinews.org 
 103.102.166.224    zh.wikinews.org
 103.102.166.224    zh.m.wikinews.org
 # Wikinews End
 
 # MEGA Start
-31.216.148.10   mega.nz
-31.216.147.130  mega.co.nz
-117.18.237.188  g.cdn1.mega.co.nz
-31.216.147.161  w.api.mega.co.nz
-31.216.147.136  eu.api.mega.co.nz
-31.216.148.13   eu.static.mega.co.nz
+89.44.169.139   mega.io
 # MEGA End
+
+# V2ex Start
+172.67.3.188   v2ex.com
+# V2ex End
+
+# G Start
+104.18.27.103   gtv.org
+104.22.11.216   gnews.org 
+# G End
+
+# Hosts DNS Start
+104.26.9.179    ping.pe
+104.26.3.223    whoer.net
+95.85.16.212    ipleak.net
+104.21.5.253    dnslookup.org
+104.26.7.89     dnschecker.org
+104.26.7.229    whatsmydns.net
+172.67.165.117  check-host.net
+118.212.233.24  ipip.net
+# Hosts DNS End
 
 # Github Start
 13.229.188.59    github.com
@@ -72,37 +85,6 @@
 185.199.111.153  google.github.io
 185.199.111.153  github.io
 # Github End
-
-# V2ex Start
-104.20.10.218  v2ex.com
-# V2ex End
-
-# Guo Media Start
-104.16.231.102  guo.media
-104.16.231.102  post.guo.media
-104.16.231.102  stage.guo.media
-104.16.231.102  content.guo.media
-104.18.27.103   gtv.org
-104.16.124.35   gnews.org 
-23.229.205.233  rolsociety.org
-23.229.205.233  rolfoundation.org
-99.86.183.125   d57iplyuvntm7.cloudfront.net
-# Guo Media End
-
-# Hosts DNS Start
-104.26.9.179    ping.pe
-116.140.35.63   ipip.net
-95.85.16.212    ipleak.net
-104.22.3.187    whoer.net
-104.26.1.67     check-host.net
-104.28.23.97    dnslookup.org
-104.26.7.89     dnschecker.org
-104.26.7.229    www.whatsmydns.net
-205.251.195.35  ns-803.awsdns-36.net
-205.251.192.101 ns-101.awsdns-12.com
-205.251.197.237 ns-1517.awsdns-61.org
-205.251.198.128 ns-1664.awsdns-16.co.uk
-# Hosts DNS End
 
 # Gmail SMTP/POP/IMAP Start
 64.233.188.16	gmr-smtp-in.l.google.com
@@ -236,66 +218,53 @@
 # 加密货币、比特币、交易所 End
 
 # SimilarWeb Start
-13.226.155.126  similarweb.com
-52.41.138.82    pro.similarweb.com
-52.41.138.82    account.similarweb.com
-104.16.55.111   support.similarweb.com
-162.241.218.124 cn.similarweb.com
+99.84.198.60    similarweb.com
+104.16.53.111   support.similarweb.com
 # SimilarWeb End
 
 # Alexa Start
-54.174.118.240  www.alexa.com 
-13.224.253.123  try.alexa.com
-54.192.151.120  hub.alexa.com
-54.192.151.102  blog.alexa.com
-104.16.55.111   support.alexa.com
+13.225.149.84  www.alexa.com 
+13.225.149.52  try.alexa.com
+13.227.220.90  hub.alexa.com
+13.227.220.20  blog.alexa.com
+104.16.51.111  support.alexa.com
 # Alexa End
 
 # OneDrive Start
-136.147.129.27  mail.onedrive.com
-13.107.6.168    admin.onedrive.com
-52.163.59.97    www.onedrive.com
-104.215.28.40   onedrive.com
 13.107.42.12	api.onedrive.com
-104.79.113.7	api.onedrive.live.com
 13.107.42.13	onedrive.live.com
-40.90.142.224   skyapi.onedrive.live.com
-173.222.154.15  cid-36f4d1230f8a673c.onedrive.live.com
+13.107.6.168    admin.onedrive.com
+136.147.129.27  mail.onedrive.com
+184.26.240.242	api.onedrive.live.com
+104.127.223.39  cid-36f4d1230f8a673c.onedrive.live.com
 # OneDrive End
 
 # Name Start
 35.186.227.193  freenom.com
-52.212.70.141   my.freenom.com
 # Name End
 
 # Medium Start
-104.16.122.127  medium.com
-104.16.55.111   help.medium.com
-104.16.121.145  api.medium.com
-104.16.121.145  blog.medium.com
-104.16.121.145  miro.medium.com
-104.16.121.145  glyph.medium.com
-104.16.121.145  cdn-static-1.medium.com
-104.16.121.145  cdn-images-1.medium.com
-104.16.121.145  cdn-images-2.medium.com
+104.16.53.111  help.medium.com
+162.159.153.4  medium.com
+162.159.153.4  api.medium.com
+162.159.153.4  blog.medium.com
+162.159.153.4  miro.medium.com
+162.159.153.4  glyph.medium.com
+162.159.153.4  cdn-static-1.medium.com
+162.159.153.4  cdn-images-1.medium.com
+162.159.153.4  cdn-images-2.medium.com
 # Medium End
 
 # Investing Start
-185.94.84.100  investing.com
-185.94.84.100  www.investing.com
-13.32.169.126  cn.tradingview.com
+104.18.10.215  investing.com
+104.18.10.215  www.investing.com
+13.225.148.15  cn.tradingview.com
 # Investing End
 
-# Others Start
-104.31.89.95    fangeqiang.com  
-104.27.167.1    www.423down.com
-104.18.56.236   free-ss.site
-172.104.90.37   my.freeshadowsocks.org
-104.24.102.156  cacss.ga
+# Others Start  
+104.26.10.27    www.423down.com
 199.180.254.202 www.cpzhan.com
-104.28.26.99    wangzi.uk
-104.28.6.12     ji-bc.pw
-104.24.119.40   cutecloud.info
-104.27.179.22   ggboom.site
-193.110.201.178 xiaoxiaobujidao.info
+104.21.25.124   wangzi.uk
+104.21.72.49    ggboom.site
+104.21.42.149   free-ss.site
 # Others End
