@@ -62,28 +62,23 @@
 # Hosts DNS End
 
 # Github Start
-13.229.188.59    github.com
-13.250.94.254    api.github.com
-13.229.188.59    gist.github.com
-54.251.140.56    codeload.github.com
-151.101.8.133    collector-cdn.github.com
-34.199.206.34    collector.githubapp.com
-151.101.8.249    global-ssl.fastly.net
-54.251.140.56    nodeload.github.com
-54.86.134.160    documentcloud.org
-151.101.8.133    raw.github.com
-151.101.8.133    raw.githubusercontent.com
-151.101.9.194    github.global.ssl.fastly.net
-151.101.8.133    avatars0.githubusercontent.com
-151.101.8.133    avatars1.githubusercontent.com
-151.101.8.133    avatars2.githubusercontent.com
-151.101.8.133    avatars3.githubusercontent.com
-185.199.111.153  documentcloud.github.com
-185.199.111.153  desktop.github.com
-185.199.111.153  pages.github.com
-185.199.111.154  help.github.com
-185.199.111.153  google.github.io
-185.199.111.153  github.io
+140.82.113.4     github.com  
+140.82.121.6     api.github.com  
+140.82.113.4     gist.github.com
+140.82.121.9     nodeload.github.com
+140.82.121.9     codeload.github.com 
+52.2.180.220     collector.githubapp.com
+185.199.110.133  collector-cdn.github.com
+185.199.110.133  raw.githubusercontent.com
+185.199.110.133  avatars0.githubusercontent.com
+185.199.110.133  avatars1.githubusercontent.com
+185.199.110.133  avatars2.githubusercontent.com
+185.199.110.133  avatars3.githubusercontent.com
+185.199.110.133  avatars4.githubusercontent.com
+185.199.110.133  avatars5.githubusercontent.com
+185.199.110.133  avatars6.githubusercontent.com
+185.199.110.133  avatars7.githubusercontent.com
+185.199.110.133  avatars8.githubusercontent.com
 # Github End
 
 # Gmail SMTP/POP/IMAP Start
