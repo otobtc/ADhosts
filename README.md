@@ -8,7 +8,7 @@
 <br/>
 3.1024_hosts：https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts  （1024网站和澳门皇家赌场）
 <br/>
-4.neoHosts: https://hosts.nfz.moe/full/hosts  （国内屏蔽挖矿统计JS&360&百度&法轮功等）
+4.neoHosts: https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts  （国内屏蔽挖矿统计JS&360&百度&法轮功等）
 <br/>
 5.Hblock：https://hblock.molinero.xyz/hosts  （综合多种源集合体屏蔽广告跟踪和恶意软件）
 <br/>
