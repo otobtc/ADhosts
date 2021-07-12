@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 5.[ADgk](https://github.com/banbendalao/ADgk)：https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
-1.乘风规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
+1.乘风视频规则：https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt  (视频网站)
 <br/>
 2.EasyList：https://easylist-downloads.adblockplus.org/easylist.txt  (主要规则)
 <br/>
