@@ -7,11 +7,11 @@
 2.大圣净化：https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts  （主要针对国内视频网站）
 <br/>
 3.1024_hosts：https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts  （1024网站和澳门皇家赌场）
-<br/><del>
-4.neoHosts: https://hosts.nfz.moe/full/hosts  （国内屏蔽挖矿统计JS&360&百度&法轮功等）
-<br/></del><del>
+<br/>
+4.neoHosts: https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/full/hosts  （国内屏蔽挖矿统计JS&360&百度&法轮功等）
+<br/>
 5.Hblock：https://hblock.molinero.xyz/hosts  （综合多种源集合体屏蔽广告跟踪和恶意软件）
-<br/></del>
+<br/>
 6.Mvps：https://winhelp2002.mvps.org/hosts.txt  （屏蔽美欧地区英文网站相关的广告）
 <br/>
 7.YousList: https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  （主要屏蔽韩国人使用的网站广告）
@@ -20,6 +20,7 @@
 <br/>
 9.Google hosts：https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts  （提高网站访问速度）
 <br/>
+10.neodev host：https://neodev.team/host （基于各种源的综合源 自动去重 每日更新）
 
 ### 路由端屏蔽规则
 1.[Koolproxy](https://houzi-.coding.net/p/my_dream/d/my_dream/git)：https://houzi-.coding.net/p/my_dream/d/my_dream/git  <br/>
