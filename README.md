@@ -16,7 +16,7 @@
 <br/>
 7.YousList: https://raw.githubusercontent.com/yous/YousList/master/hosts.txt  （主要屏蔽韩国人使用的网站广告）
 <br/>
-8.StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts  (国外维护者屏蔽国外网站广告)
+8.StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts  (多源集合体偏向屏蔽国外网站广告)
 <br/>
 9.Google hosts：https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts  （提高网站访问速度）
 <br/>
