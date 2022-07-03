@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 [video]：https://opt.cn2qq.com/opt-file/video.txt  <br/>
 [lazy]：https://opt.cn2qq.com/opt-file/lazy.txt  <br/>
 ### Adguard屏蔽规则
-1.[乘风](https://github.com/xinggsf/Adblock-Plus-Rule)：https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/rule.txt
+1.[乘风](https://github.com/xinggsf/Adblock-Plus-Rule)：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 <br/>
 2.[anti-AD](https://github.com/privacy-protection-tools/anti-AD)：https://anti-ad.net/easylist.txt
 <br/><del>
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 5.[ADgk](https://github.com/banbendalao/ADgk)：https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
-1.乘风视频规则：https://fastly.jsdelivr.net/gh/xinggsf/Adblock-Plus-Rule/mv.txt  (国内主流视频网站)
+1.乘风视频规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt  (国内主流视频网站)
 <br/>
 2.EasyList：https://easylist-downloads.adblockplus.org/easylist.txt  (主要规则)
 <br/>
