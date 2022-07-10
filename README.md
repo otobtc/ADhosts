@@ -43,15 +43,15 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 5.[ADgk](https://github.com/banbendalao/ADgk)：https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 <br/>
 ### Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）
-1.乘风视频规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt  (国内主流视频网站)
+1.乘风视频规则：https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt (国内主流视频网站)
 <br/>
-2.EasyList：https://easylist-downloads.adblockplus.org/easylist.txt  (主要规则)
+2.EasyList：https://easylist.to/easylist/easylist.txt  (反英文和国际网站广告)
 <br/>
-3.EasyPrivacy：https://easylist-downloads.adblockplus.org/easyprivacy.txt （防隐私跟踪列表）
+3.EasyPrivacy：https://easylist.to/easylist/easyprivacy.txt （阻止跟踪保护隐私）
 <br/>
-4.EasyList China：https://easylist-downloads.adblockplus.org/easylistchina.txt  (EasyList的中文补充规则)
+4.EasyList China：https://easylist-downloads.adblockplus.org/easylistchina.txt (EasyList反广告的中文版补充)
 <br/>
-5.CJX's Annoyance List：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt （去自我推广列表）
+5.CJX's Annoyance List：https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt （去自我推广，上面3个的补充）
 <br/>
 6.I don't care about cookies：https://www.i-dont-care-about-cookies.eu/abp/  （屏蔽网站的 cookies 相关的警告）
 <br/>
