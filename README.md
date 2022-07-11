@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/adbyby/xwhyc-rules/master/lazy.txt  <br/>
 <br/>
 6.I don't care about cookies：https://www.i-dont-care-about-cookies.eu/abp/  （屏蔽网站的 cookies 相关的警告）
 <br/>
-
+7.Adblock Warning Removal List：https://easylist-downloads.adblockplus.org/antiadblockfilters.txt  (反Adblock警告)
 
 <h3>去广告效果检测网站</h3>
 1.https://checkadblock.ru/
