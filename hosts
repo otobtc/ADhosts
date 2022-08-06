@@ -1,4 +1,4 @@
-# Last updated: 2021-05-10
+# Last updated: 2022-08-06
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -22,13 +22,19 @@
 # Apkpure End
 
 # Aptoide Start
-18.203.16.18   aptoide.com
-34.240.108.2   en.aptoide.com
+173.244.209.150   aptoide.com 
+34.240.108.2      en.aptoide.com
 # Aptoide End
 
 # Apkmirror Start
 104.19.136.58	apkmirror.com
 # Apkmirror End
+
+# Uptodown Start
+104.81.184.29	uptodown.com
+104.105.104.18  cn.uptodown.com
+104.105.104.18  uptodown-android.cn.uptodown.com
+# Uptodown End
 
 # Wikinews Start
 103.102.166.224    wikinews.org
@@ -44,11 +50,6 @@
 # V2ex Start
 172.67.3.188   v2ex.com
 # V2ex End
-
-# G Start
-104.18.27.103   gtv.org
-104.22.11.216   gnews.org 
-# G End
 
 # Hosts DNS Start
 104.26.9.179    ping.pe
@@ -107,110 +108,39 @@
 # 加密货币、比特币、交易所 Start
 
 # Binance Start
-52.84.226.179  www.binance.com 
-54.249.41.228  resource.binance.com
-54.249.41.228  binance.com
-13.224.96.105  bin.bnbstatic.com
-54.192.151.74  ex.bnbstatic.com
-54.249.194.47  stream.binance.com
-54.178.167.48  stream2.binance.com
-52.84.226.179  api.binance.com
-54.192.151.65  ftp.binance.com
-54.249.41.228  sftp.binance.com
-54.192.151.11  info.binance.com
-52.84.226.179  support.binance.com 
-54.192.151.89  labs.binance.com
-54.192.151.77  launchpad.binance.com
-104.16.55.111  binance.zendesk.com
-52.84.226.179  de908tco66xxm.cloudfront.net
-13.224.89.138  d1eipm3vz40hy0.cloudfront.net
+13.226.253.16  www.binance.com
+13.226.239.112 api.binance.com
+13.226.253.25  labs.binance.com
+54.230.21.35   launchpad.binance.com
+104.16.51.111  binance.zendesk.com
 # Binance End
 
-# OTC Start
-104.18.201.62  localbitcoins.com  
-104.18.201.62  chain.localbitcoins.com
-13.114.253.144 otcbtc.com
-13.114.253.144 assets3.otcbtc.com
-13.114.253.144 assets2.otcbtc.com
-13.114.253.144 assets1.otcbtc.com
-13.114.253.144 assets0.otcbtc.com
-52.196.202.252 bb.otcbtc.com
-34.194.221.118 career.otcbtc.com
-13.115.225.194 support.otcbtc.com
-# OTC End
-
-# Huobi Start
-18.179.190.111  hbg.com
-104.17.199.190  m.hbg.com
-104.17.199.190  www.hbg.com
-104.17.199.190  otc.hbg.com
-192.0.78.196    blog.hbg.com
-104.17.199.190  otc-api.hbg.com
-104.17.128.100  www.huobi.br.com
-104.17.128.100  dm.huobi.br.com
-104.18.243.30   file.huobiasia.vip
-104.17.34.9     www.hbdm.com
-103.235.46.191  hm.baidu.com
-# Huobi End
-
 # Kucoin Start
-99.86.181.110  www.kucoin.com
-13.224.253.17  assets-v2.kucoin.com
-99.86.181.114  kitchen-v2.kucoin.com
-13.114.56.145  pangu.kucoin.com
-13.224.253.80  kcs.kucoin.com
-99.86.181.92   fd.kucoin.com
-13.231.83.35   support.kucoin.com
-104.16.55.111  kucoin.zendesk.com
-52.193.144.38  sentry.kucoin.com
-52.193.144.38  news.kucoin.com
-172.217.31.78  www.google-analytics.com
-66.6.33.149    kucoinn.tumblr.com
+104.18.36.15   www.kucoin.com
+104.16.51.111  kucoin.zendesk.com
 # Kucoin End
 
-# Bitfinex Start
-104.16.174.181 bitfinex.com
-104.16.174.181 www.bitfinex.com
-104.16.173.181 api.bitfinex.com
-160.153.18.112 blog.bitfinex.com
-104.16.53.111  support.bitfinex.com
-# Bitfinex End
-
-# Bitmex Start
-54.171.252.122   bitmex.com
-139.59.186.192   blog.bitmex.com
-54.154.157.126   www.bitmex.com
-104.17.137.178   testnet.bitmex.com
-178.62.14.205    sentry.bitmex.com
-178.62.14.205    testnet-static.bitmex.com
-13.33.172.222    static.bitmex.com
-13.33.172.214    static.bitmex.com
-# Bitmex End
-
-# Hitbtc Start
-104.28.13.130  hitbtc.com
-104.28.13.130  auth.hitbtc.com
-104.16.55.111  support.hitbtc.com
-46.101.21.147  mt.hitbtc.com
-104.28.13.130  blog.hitbtc.com
-# Hitbtc End
-
-# Okex Start
-47.90.110.144 okex.com
-192.0.78.13   blog.okex.com
-104.25.21.25  www.okex.com
-104.16.55.111 support.okex.com
-# Okex End
-
 # Gate Start
-52.199.92.111  gate.io
-13.230.249.212 web02.gate.io
-54.208.38.43   support.gate.io
-13.230.79.111  data.gate.io
-52.199.92.111  jp.gate.io
+104.18.29.208  www.gate.io
+104.16.53.111  support.gate.io
 # Gate End
 
+# OTC Start
+104.17.60.58   paxful.com
+54.230.21.77   www.pexpay.com
+104.18.201.62  localbitcoins.com
+54.230.21.107  localcryptos.com
+# OTC End
+
+# Others Start
+104.18.33.32   www.okx.com
+172.64.145.249 www.huobi.com
+104.16.175.181 www.bitfinex.com
+# Others End
+
 # 加密货币、比特币、交易所 End
+
+
 
 # SimilarWeb Start
 99.84.198.60    similarweb.com
@@ -251,15 +181,14 @@
 # Medium End
 
 # Investing Start
-104.18.10.215  investing.com
-104.18.10.215  www.investing.com
-13.225.148.15  cn.tradingview.com
+104.18.42.82   investing.com
+172.64.145.174 www.investing.com
+13.226.225.55  cn.tradingview.com
+13.226.225.19  www.tradingview.com
 # Investing End
 
-# Others Start  
-104.26.10.27    www.423down.com
+# Others Start
+104.21.42.149   free-ss.site  
+101.32.11.178   www.423down.com
 199.180.254.202 www.cpzhan.com
-104.21.25.124   wangzi.uk
-104.21.72.49    ggboom.site
-104.21.42.149   free-ss.site
 # Others End
