@@ -1,4 +1,4 @@
-# Last updated: 2022-08-06
+# Last updated: 2023-02-16
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -31,7 +31,7 @@
 # Apkmirror End
 
 # Uptodown Start
-104.81.184.29	uptodown.com
+104.81.184.29	  uptodown.com
 104.105.104.18  cn.uptodown.com
 104.105.104.18  uptodown-android.cn.uptodown.com
 # Uptodown End
@@ -98,7 +98,7 @@
 64.233.188.16	gmail-imap.l.google.com
 64.233.188.16	imap.gmail.com
 64.233.188.16	googlemail-pop.l.google.com
-64.233.188.16   pop.gmail.com
+64.233.188.16 pop.gmail.com
 64.233.188.16	pop.googlemail.com
 64.233.188.16	gmail-smtp.l.google.com
 64.233.188.16	smtp.gmail.com
@@ -108,34 +108,33 @@
 # 加密货币、比特币、交易所 Start
 
 # Binance Start
-13.226.253.16  www.binance.com
+52.84.150.48   www.binance.com
 13.226.239.112 api.binance.com
-13.226.253.25  labs.binance.com
+13.226.228.13  labs.binance.com
 54.230.21.35   launchpad.binance.com
 104.16.51.111  binance.zendesk.com
 # Binance End
 
 # Kucoin Start
-104.18.36.15   www.kucoin.com
-104.16.51.111  kucoin.zendesk.com
+104.18.8.15    www.kucoin.com
+104.16.53.111  kucoin.zendesk.com
 # Kucoin End
 
 # Gate Start
-104.18.29.208  www.gate.io
+104.18.19.156  www.gate.io
 104.16.53.111  support.gate.io
 # Gate End
 
 # OTC Start
 104.17.60.58   paxful.com
-54.230.21.77   www.pexpay.com
-104.18.201.62  localbitcoins.com
-54.230.21.107  localcryptos.com
+54.230.21.40   www.pexpay.com
+54.230.21.19   localcryptos.com
 # OTC End
 
 # Others Start
-104.18.33.32   www.okx.com
-172.64.145.249 www.huobi.com
-104.16.175.181 www.bitfinex.com
+104.18.3.151   www.okx.com
+104.18.24.87   www.huobi.com
+104.17.20.84   www.bitfinex.com
 # Others End
 
 # 加密货币、比特币、交易所 End
@@ -143,25 +142,18 @@
 
 
 # SimilarWeb Start
-99.84.198.60    similarweb.com
+52.34.29.200    similarweb.com
 104.16.53.111   support.similarweb.com
 # SimilarWeb End
 
-# Alexa Start
-13.225.149.84  www.alexa.com 
-13.225.149.52  try.alexa.com
-13.227.220.90  hub.alexa.com
-13.227.220.20  blog.alexa.com
-104.16.51.111  support.alexa.com
-# Alexa End
 
 # OneDrive Start
-13.107.42.12	api.onedrive.com
-13.107.42.13	onedrive.live.com
-13.107.6.168    admin.onedrive.com
-136.147.129.27  mail.onedrive.com
-184.26.240.242	api.onedrive.live.com
-104.127.223.39  cid-36f4d1230f8a673c.onedrive.live.com
+13.107.42.12	 api.onedrive.com
+13.107.42.13	 onedrive.live.com
+13.107.6.168   admin.onedrive.com
+136.147.129.27 mail.onedrive.com
+104.86.73.109	 api.onedrive.live.com
+104.86.73.109  cid-36f4d1230f8a673c.onedrive.live.com
 # OneDrive End
 
 # Name Start
@@ -181,14 +173,21 @@
 # Medium End
 
 # Investing Start
-104.18.42.82   investing.com
-172.64.145.174 www.investing.com
-13.226.225.55  cn.tradingview.com
-13.226.225.19  www.tradingview.com
+104.18.1.154   investing.com
+104.18.0.154   www.investing.com
+13.226.225.67  cn.tradingview.com
+13.226.225.67  www.tradingview.com
 # Investing End
 
 # Others Start
 104.21.42.149   free-ss.site  
-101.32.11.178   www.423down.com
-199.180.254.202 www.cpzhan.com
+45.151.132.50   www.423down.com
+23.94.123.87    www.cpzhan.com
+
+# BitComet Start
+38.242.234.0    passport-client.bitcomet.com
+65.109.165.230  www.xytalk.net
+65.109.172.8    www.fileshot.net
+65.109.172.8    image.fileshot.net
+
 # Others End
