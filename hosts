@@ -1,4 +1,4 @@
-# Last updated: 2024-09-29
+# Last updated: 2025-02-13
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -109,6 +109,22 @@
 64.233.188.16	smtp.gmail.com
 64.233.188.16	gmail-smtp-msa.l.google.com
 # Gmail SMTP/POP/IMAP End
+
+# FCM Start
+108.177.125.188 mtalk.google.com
+3.3.3.3 alt1-mtalk.google.com
+3.3.3.3 alt2-mtalk.google.com
+74.125.200.188 alt3-mtalk.google.com
+74.125.200.188 alt4-mtalk.google.com
+3.3.3.3 alt5-mtalk.google.com
+3.3.3.3 alt6-mtalk.google.com
+74.125.200.188 alt7-mtalk.google.com
+3.3.3.3 alt8-mtalk.google.com
+2404:6800:4008:c07::bc mtalk.google.com
+2607:f8b0:4023:c0b::bc alt1-mtalk.google.com
+2607:f8b0:4023:1::bc alt5-mtalk.google.com
+2607:f8b0:4002:c03::bc alt7-mtalk.google.com
+# FCM End
 
 # 加密货币、比特币、交易所 Start
 
