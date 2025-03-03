@@ -1,4 +1,4 @@
-# Last updated: 2025-02-13
+# Last updated: 2025-03-04
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
 ::1	localhost
@@ -112,6 +112,9 @@
 
 # FCM Start
 142.251.2.188   mtalk.google.com
+142.251.2.188   mtalk-dev.google.com
+74.125.137.188  mtalk-staging.google.com
+142.250.101.188 mtalk4.google.com
 108.177.104.188 alt1-mtalk.google.com
 142.250.152.188 alt2-mtalk.google.com
 172.253.113.188 alt3-mtalk.google.com
